@@ -68,7 +68,7 @@ csv({
             for (const i in jsonObj) {
                 //  console.log(jsonObj)
                 if (jsonObj[i].type == uniqueNames[j]) {
-                    console.log(jsonObj[i].type + "   ->   " + jsonObj[i].vendor + "  -->   " + jsonObj[i].debit)
+                    console.log(jsonObj[i].Date + " " + jsonObj[i].type + "   ->   " + jsonObj[i].vendor + "  -->   " + jsonObj[i].debit)
                     totaldebit = totaldebit + jsonObj[i].debit
                 }
                 categorySpent[uniqueNames[j]] = totaldebit

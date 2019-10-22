@@ -12,7 +12,7 @@ eatingOut = ["BALTI", "BYBLOS", "BURGER",
 "SUBWAY", "HUDSON CORNER", "DOMINOS" , "GRILLD" , "CAFE" , "COFFEE" , "SUSHI" ,"KARAAGE",
 "SITAR FOODS PTY", "HELLCAT MAGGIE", "MING RUI" , "ESPRESSO LEGENDS" , "RASHAYS", "BE HAPPY CUISINE"
 ,"BRISBANE SINDHI", "AAMAYA", "MVR FOODS","MIRCHH MASALA", "Guzman" , "LITTLE MARU",
-"Jee's Burger", "JAI SAKHI BABA" , "Metropole Bar" , "Lemaire's Bistro"]
+"Jee's Burger", "JAI SAKHI BABA" , "Metropole Bar" , "Lemaire's Bistro", "PUNJABI RASOI INDIAN"]
 
 phAndInternetNetFlix = ["AMAYSIM", "OPTUS", "NETFLIX", "IINET" , "Belong" , "VODAFONE"]
 
@@ -20,11 +20,11 @@ household = ["KMART", "BIG W" , "BUNNINGS" ,  "HARVEY NORMAN" , "BATTERY WORLD",
 
 shoesNClothes = ["TARGET" , "MYER" ,"ZARA" , "MATHERS FOR SHOES" , "DISCOVER SINGAPORE" , "H&M"]
 
-liquor = ["DAN MURPHYS" , "LIQUORLAND"]
+liquor = ["DAN MURPHYS" , "LIQUORLAND" , "BWS "]
 
 electricity = ["AGL" , "ALINTA ENERGY"]
 
-medicals = ["CHEMIST", "PRICELINE" , "PLINE"]
+medicals = ["CHEMIST", "PRICELINE" , "PLINE", "Toombul Medical"]
 
 fuel = ["PUMA", "7-ELEVEN"]
 
@@ -38,7 +38,7 @@ entertainment = ["AUSTRALIA ZOO","LOLLIPOPS CANNON" , "VANILLA POD" , "LOLLIPOPS
 
 carAndDrivingExpenses = ["TRANSPORTMAINRDS"]
 
-personalCare = ["Just Cuts", "MAGIC BROWS"]
+personalCare = ["Just Cuts", "MAGIC BROWS" , "DBS*Goodlife"]
 publicTransportAndParking = ["TRANSLINK" , "SECURE A SPOT" , "PARKING" , "UBER" , "OLA" ,"BWC BRISBANE" , "GM CABS PTY LTD"]
 onlineShopping = ["AMAZON" , "Patpat.com", "AMZN Mktp US"]
 
